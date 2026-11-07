@@ -1,2 +1,2 @@
 Hotel Management Application 
-Welcome to the hotel. 
+Room booking feature added. 
